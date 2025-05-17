@@ -1,2 +1,2 @@
-# Mobil Programlama Final  Proje Ödevi
-Muhammed Ömer Baykan 244602030
+# Mobil Programlama Final  
+Muhammed Ömer Baykan # Proje_Odevi_Mobil
